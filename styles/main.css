@@ -431,7 +431,7 @@ Responsive
 
 
 /*
-840 y 680 > TABLET Y GAMA ALTA CELULAR
+840 a 680 > tables y cell
 */
 
 @media (max-width:768px) {
@@ -477,7 +477,7 @@ Responsive
 
 
 /*
-680 hasta 560 es para celulares gama media
+680 a 560
 */
 
 @media (max-width:660px) {
@@ -512,7 +512,7 @@ Responsive
 
 
 /*
-560 hasta 320
+560 a 320
 */
 
 @media (max-width:560px) {
